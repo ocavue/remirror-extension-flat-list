@@ -53,7 +53,7 @@
   },
   "devDependencies": {
     "@microsoft/api-extractor": "^7.47.11",
-    "@remirror/core": "^2.0.19",
+    "@remirror/core": "^3.0.1",
     "@remirror/extension-blockquote": "^2.0.14",
     "@remirror/extension-heading": "^2.0.16",
     "@remirror/extension-horizontal-rule": "^2.0.13",

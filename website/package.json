@@ -9,7 +9,7 @@
     "build:typedoc": "nr -w api && typedoc && touch pages/docs/index.md && rm pages/docs/index.md"
   },
   "devDependencies": {
-    "@remirror/core": "^2.0.19",
+    "@remirror/core": "^3.0.1",
     "@remirror/extension-blockquote": "^2.0.14",
     "@remirror/extension-hard-break": "^2.0.13",
     "@remirror/extension-heading": "^2.0.16",
